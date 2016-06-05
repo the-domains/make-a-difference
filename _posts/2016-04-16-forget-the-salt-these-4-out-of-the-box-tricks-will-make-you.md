@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-05T17:52:27.325Z'
+datePublished: '2016-06-05T17:52:31.324Z'
 sourcePath: >-
   _posts/2016-04-16-forget-the-salt-these-4-out-of-the-box-tricks-will-make-you.md
 inFeed: true
@@ -20,7 +20,7 @@ keywords:
 related: []
 author:
   - name: Jessie Radies
-dateModified: '2016-06-05T17:52:26.937Z'
+dateModified: '2016-06-05T17:52:31.094Z'
 title: 10 Tips for selling local food to restaurants
 app_links: []
 publisher:
@@ -53,7 +53,7 @@ description: >-
   They will take the sample from you, you are their customer.
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
