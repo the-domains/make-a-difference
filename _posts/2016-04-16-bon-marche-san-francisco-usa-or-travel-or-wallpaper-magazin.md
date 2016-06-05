@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-05T14:49:15.414Z'
+datePublished: '2016-06-05T15:44:55.231Z'
 sourcePath: >-
   _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
 inFeed: true
@@ -21,20 +21,15 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-05T14:49:09.396Z'
-title: 'Bon Marché, San Francisco, USA.'
+dateModified: '2016-06-05T15:44:55.161Z'
+title: Food Security Matters
 app_links: []
 publisher:
   name: Wallpaper*
   domain: www.wallpaper.com
   url: 'http://www.wallpaper.com'
   favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
-description: >-
-  Among the eateries revitalising San Francisco's once-gritty Mid-Market
-  neighborhood into the city's most buzzy food and drinks corridor is Bon
-  Marché, a sunny Californian take on Le Marais. This 7500-square-foot space
-  combines a café, a brewery, an oyster bar, a full-service restaurant, and even
-  a flower shop that doubles as a stage for live jazz at night.
+description: 'http://www.youtube.com/watch?v=ok3ykR2GHCc'
 inLanguage: en
 inNav: false
 starred: false
@@ -42,4 +37,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Bon Marché, San Francisco, USA.</h1><p>Among the eateries revitalising San Francisco's once-gritty Mid-Market neighborhood into the city's most buzzy food and drinks corridor is Bon Marché, a sunny Californian take on Le Marais. This 7500-square-foot space combines a café, a brewery, an oyster bar, a full-service restaurant, and even a flower shop that doubles as a stage for live jazz at night.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f67536b56e8543128b8b1122f673dc5d50a01f50.jpg" /></article>
+<article style=""><h1>Food Security Matters</h1><p>Food security is an important concept and can be looked at three ways: Household food security – in our country, household food insecurity is usually a result of poverty; Regional food security – insecurity is usually an issue of lack of farmers, or infrastructure to support a regional food system; National food security – a country’s ability to feed itself – this insecurity results from either a lack of farmers, or farmers do not grow diverse crops, everyone grows corn, canola or wheat for the export market, and over dependence on food imports. I like to use this video to explain national food security. (Watch for the dancing cows.) </p></article>
+
+http://www.youtube.com/watch?v=ok3ykR2GHCc
