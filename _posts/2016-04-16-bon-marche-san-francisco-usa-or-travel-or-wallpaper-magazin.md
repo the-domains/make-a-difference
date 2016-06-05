@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-05T15:44:55.231Z'
+datePublished: '2016-06-05T15:44:55.266Z'
 sourcePath: >-
   _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
 inFeed: true
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-05T15:44:55.161Z'
+dateModified: '2016-06-05T15:44:55.193Z'
 title: Food Security Matters
 app_links: []
 publisher:
