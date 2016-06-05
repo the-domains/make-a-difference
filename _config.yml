@@ -1,8 +1,21 @@
-layout_spectrum: 0.3645307968836278
-typography_spectrum: 0.28157142363488674
+layout_spectrum: 0.9192741
+name: Jessie Radies
+title: make a difference
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  brandStrength: 0.8152283974923193
-  lightness: 0.42310376977548003
+  brandStrength: 0.5012516
+  lightness: 0.42310376977548
   saturation: 0.6398062105290592
   rhythmicContrast: 0.7288948609493673
   brandColors:
@@ -11,4 +24,4 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: make a difference
+typography_spectrum: 0.3973717
