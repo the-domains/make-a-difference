@@ -1,4 +1,4 @@
-layout_spectrum: 0.9192741
+layout_spectrum: 0.887985
 name: Jessie Radies
 title: make a difference
 collections:
@@ -13,15 +13,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.5550689
 color:
-  brandStrength: 0.5012516
-  lightness: 0.42310376977548
-  saturation: 0.6398062105290592
-  rhythmicContrast: 0.7288948609493673
+  brandStrength: 0.198373
+  lightness: 0.8266583
+  saturation: 0.8854818
+  rhythmicContrast: 0.6376721
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-typography_spectrum: 0.3973717
