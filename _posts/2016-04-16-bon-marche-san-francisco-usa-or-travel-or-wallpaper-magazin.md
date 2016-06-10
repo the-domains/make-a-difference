@@ -1,11 +1,8 @@
 ---
-datePublished: '2016-06-05T16:36:14.982Z'
-sourcePath: >-
-  _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
-inFeed: true
-isBasedOnUrl: 'http://www.wallpaper.com/travel/usa/san-francisco/restaurants/bon-march'
-authors: []
-hasPage: false
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - bon
   - semmelhack
@@ -17,27 +14,30 @@ keywords:
   - full-service
   - floor-to-ceiling
   - mid-market
+description: 'Ministry of Agriculture, Forestry and Fisheries - Japan'
+datePublished: '2016-06-10T12:13:41.191Z'
+dateModified: '2016-06-10T12:13:05.642Z'
+sourcePath: >-
+  _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
 related: []
 author:
   - name: Jessie Radies
     url: ''
-dateModified: '2016-06-05T16:36:07.754Z'
 title: Ensuring The Future of Food - MAFF
 app_links: []
+authors: []
 publisher:
   name: Wallpaper*
   domain: www.wallpaper.com
   url: 'http://www.wallpaper.com'
   favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
-description: A fun video from Japan on food security - watch for the dancing cows
-inLanguage: en
-inNav: false
-starred: true
+starred: false
+url: ensuring-the-future-of-food-maff/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ea4508-4b6f-476f-bf24-c2e3e2e944ab.jpg" /><h1>Ensuring The Future of Food - MAFF</h1><p>A fun video from Japan on food security - watch for the dancing cows</p></article>
+<article style=""><h1>Ensuring The Future of Food - MAFF</h1><p>A fun video from Japan on food security - watch for the dancing cows</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ea4508-4b6f-476f-bf24-c2e3e2e944ab.jpg" /></article>
 
 [Ministry of Agriculture, Forestry and Fisheries - Japan][0]
 
