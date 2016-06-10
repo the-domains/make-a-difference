@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hi - I'm Jessie
-datePublished: '2016-06-10T12:05:39.910Z'
-dateModified: '2016-06-10T12:03:34.307Z'
+datePublished: '2016-06-10T12:10:07.508Z'
+dateModified: '2016-06-10T12:10:03.293Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-10-hi-im-jessie.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-06-10-hi-im-jessie.md
 url: hi-im-jessie/index.html
 _type: Article
 
@@ -21,11 +21,11 @@ _type: Article
 
 Hi - I'm Jessie
 
-I've been working on increasing community prosperity and vibrancy in Edmonton, Alberta Canada for the past 15 years. 
+I hope this site will help you make a difference in your community.
 
-I focus on transforming my community by supporting local independent business growth and advocating for regional food system development. 
+For the past 15 years, I've been working on increasing community prosperity and vibrancy in Edmonton, Alberta Canada 
 
-I so this by initiating and supporting strategic community projects, leveraging the scale of anchor institutions and shifting citizen buying power. 
+I focus on transforming my community by supporting local independent business growth and advocating for regional food system development. I do this by initiating and supporting strategic community projects, leveraging the scale of anchor institutions and shifting citizen buying power. 
 
 This site holds resources, examples and stories of interesting projects that might help spark imagination on how you can help transform your community. 
 
