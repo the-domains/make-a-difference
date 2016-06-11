@@ -15,8 +15,8 @@ keywords:
   - floor-to-ceiling
   - mid-market
 description: 'Ministry of Agriculture, Forestry and Fisheries - Japan'
-datePublished: '2016-06-11T12:02:34.117Z'
-dateModified: '2016-06-11T12:02:10.412Z'
+datePublished: '2016-06-11T12:05:37.930Z'
+dateModified: '2016-06-11T12:03:35.733Z'
 sourcePath: >-
   _posts/2016-04-16-bon-marche-san-francisco-usa-or-travel-or-wallpaper-magazin.md
 related: []
@@ -37,8 +37,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+[Ministry of Agriculture, Forestry and Fisheries - Japan][0]
+
 <article style=""><h1>Ensuring The Future of Food - MAFF</h1><p>A fun video from Japan on food security - watch for the dancing cows</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ea4508-4b6f-476f-bf24-c2e3e2e944ab.jpg" /></article>
 
-[Ministry of Agriculture, Forestry and Fisheries - Japan][0]
+
 
 [0]: http://www.youtube.com/watch?v=ok3ykR2GHCc "MAFF"
