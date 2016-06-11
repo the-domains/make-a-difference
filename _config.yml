@@ -1,8 +1,19 @@
-name: make a difference
-favicon: null
-layout_spectrum: 0.6662
-typography_spectrum: 0.22912
-title: Jessie Radies
+color:
+  brandStrength: 0.198373
+  saturation: 0.8854818
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  lightness: 0.5625
+  rhythmicContrast: 0.6376721
+title: make a difference
+analytics:
+  facebook: null
+  google: null
+  twitter: null
 collections:
   - index:
       navigable: true
@@ -17,25 +28,14 @@ collections:
       path: '/:title/'
 cta:
   domain: null
-  bucket: null
   version: null
-analytics:
-  google: UA-79205826-1
-  facebook: null
-  twitter: null
+  bucket: null
+favicon: null
+layout_spectrum: 0.6662
+purpose: []
+name: make a difference
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#fdfdfb'
-    - '#2e3b0c'
-    - '#337acc'
-    - '#d8a288'
-  brandStrength: 0.5
-  lightness: 0.625
-  saturation: 0.375
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.5550689
