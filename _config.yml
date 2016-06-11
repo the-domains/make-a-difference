@@ -1,7 +1,7 @@
 name: make a difference
 favicon: null
 layout_spectrum: 0.6662
-typography_spectrum: 0.5550689
+typography_spectrum: 0.22912
 title: Jessie Radies
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.198373
-  lightness: 0.5625
-  saturation: 0.8854818
-  rhythmicContrast: 0.6376721
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
