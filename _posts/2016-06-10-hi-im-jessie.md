@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Hi - I'm Jessie
-datePublished: '2016-06-11T19:29:05.040Z'
-dateModified: '2016-06-11T12:00:47.728Z'
+datePublished: '2016-06-11T20:29:50.163Z'
+dateModified: '2016-06-11T20:29:49.534Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-10-hi-im-jessie.md
@@ -17,7 +17,7 @@ url: hi-im-jessie/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11f5729e-6396-4214-9ec4-9ec14d591a58.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d531f42fafe47e0451e34a0ad50111d2b27690c5.jpg)
 
 Hi - I'm Jessie
 
