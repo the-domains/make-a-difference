@@ -4,11 +4,15 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Hi - I'm Jessie
-datePublished: '2016-06-11T20:29:50.163Z'
-dateModified: '2016-06-11T20:29:49.534Z'
+description: >-
+  Hi - I'm Jessie - For the past 15 years, I've been working on increasing
+  community prosperity and vibrancy in Edmonton, Alberta Canada 
+datePublished: '2016-06-11T20:36:48.736Z'
+dateModified: '2016-06-11T20:36:46.686Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-10-hi-im-jessie.md
 authors: []
 publisher: null
@@ -19,11 +23,7 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d531f42fafe47e0451e34a0ad50111d2b27690c5.jpg)
 
-Hi - I'm Jessie
-
-I hope this site will help you make a difference in your community.
-
-For the past 15 years, I've been working on increasing community prosperity and vibrancy in Edmonton, Alberta Canada 
+Hi - I'm Jessie - For the past 15 years, I've been working on increasing community prosperity and vibrancy in Edmonton, Alberta Canada 
 
 I focus on transforming my community by supporting local independent business growth and advocating for regional food system development. I do this by initiating and supporting strategic community projects, leveraging the scale of anchor institutions and shifting citizen buying power. 
 
