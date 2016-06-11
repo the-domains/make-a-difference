@@ -1,14 +1,15 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://photos.edmonton.ca/'
 inLanguage: null
 keywords: []
 description: >-
   For the past 15 years, I've been working on increasing community prosperity
   and vibrancy in my place - Edmonton, Alberta Canada 
-datePublished: '2016-06-11T21:22:24.072Z'
-dateModified: '2016-06-11T21:22:17.939Z'
+datePublished: '2016-06-11T21:25:39.302Z'
+dateModified: '2016-06-11T21:23:54.707Z'
 title: ''
 author:
   - name: ''
@@ -17,7 +18,6 @@ sourcePath: _posts/2016-06-10-hi-im-jessie.md
 authors: []
 publisher: null
 starred: true
-url: hi-im-jessie/index.html
 _type: MediaObject
 
 ---
