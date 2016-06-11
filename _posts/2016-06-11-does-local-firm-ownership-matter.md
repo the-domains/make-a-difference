@@ -7,25 +7,25 @@ keywords: []
 description: >-
   I am very excited about a new study entitled “Does Local Firm Ownership
   Matter?” by David Flemming and Stephan Goetz.
-datePublished: '2016-06-11T13:01:50.525Z'
-dateModified: '2016-06-11T13:01:43.562Z'
+datePublished: '2016-06-11T21:30:25.257Z'
+dateModified: '2016-06-11T21:30:21.118Z'
 title: Does Local Firm Ownership Matter?
 author: []
+sourcePath: _posts/2016-06-11-does-local-firm-ownership-matter.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-11-does-local-firm-ownership-matter.md
 url: does-local-firm-ownership-matter/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54801e9e-949b-47ce-ac0e-affc40132776.jpg)
 
-<article style=""><h1>Does Local Firm Ownership Matter?</h1><p> Study: Locally owned small firms increase per capita income</p></article>
-
 I am very excited about a new study entitled "[Does Local Firm Ownership Matter?][0]" by David Flemming and Stephan Goetz.
 
 Their study clearly shows that if you want to increase per capita incomes, the only kind of business that does that is resident-owned small businesses. This is one of the first papers that clearly connects local business with measurable economic development benefits.
+
+<article style=""><h1>Does Local Firm Ownership Matter?</h1><p> Study: Locally owned small firms increase per capita income</p></article>
 
 In the words of the authors:
 
