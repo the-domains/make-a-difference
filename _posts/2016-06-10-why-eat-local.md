@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: >-
@@ -10,15 +9,17 @@ description: >-
   organic, or read labels to ensure we don’t get too much sodium. But we usually
   don’t understand that how we eat and where we dine or buy our groceries is a
   huge opportunity to have a very positive impact on us and on our community. 
-datePublished: '2016-06-10T12:15:09.962Z'
-dateModified: '2016-06-10T12:15:09.547Z'
+datePublished: '2016-06-11T20:25:50.379Z'
+dateModified: '2016-06-11T20:25:43.963Z'
 title: 'Why Eat Local '
 author:
   - name: Jessie Radies
+    url: ''
+sourcePath: _posts/2016-06-10-why-eat-local.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-10-why-eat-local.md
+url: why-eat-local/index.html
 _type: Blurb
 
 ---
