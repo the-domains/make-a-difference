@@ -1,9 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: >-
-  http://www.wallpaper.com/lifestyle/theres-brew-love-in-a-new-lager-saga-daniel-noah-sheikh-reinvents-beer
 inLanguage: en
 keywords:
   - beer
@@ -17,8 +15,8 @@ keywords:
   - faculty
   - bottle
 description: Why Eat Local?
-datePublished: '2016-06-10T12:16:08.802Z'
-dateModified: '2016-06-10T12:15:16.305Z'
+datePublished: '2016-06-11T13:04:16.008Z'
+dateModified: '2016-06-11T13:03:45.413Z'
 sourcePath: >-
   _posts/2016-04-16-theres-brew-love-in-a-new-lager-saga-daniel-noah-sheikh-re.md
 related: []
@@ -34,6 +32,7 @@ publisher:
   url: 'http://www.wallpaper.com'
   favicon: 'http://www.wallpaper.com/favicon-16x16.png?4c9cd4a'
 starred: false
+url: 10-benefits-of-a-local-food-system/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
