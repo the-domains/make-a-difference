@@ -1,8 +1,19 @@
-name: make a difference
-favicon: null
-layout_spectrum: 0.6662
-typography_spectrum: 0.5550689
+color:
+  brandStrength: 0.198373
+  saturation: 0.8854818
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  lightness: 0.5625
+  rhythmicContrast: 0.6376721
 title: make a difference
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 collections:
   - index:
       navigable: true
@@ -16,26 +27,15 @@ collections:
     permalink:
       path: '/:title/'
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.6662
+purpose: []
+name: make a difference
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.198373
-  lightness: 0.5625
-  saturation: 0.8854818
-  rhythmicContrast: 0.6376721
-purpose: []
+typography_spectrum: 0.5550689
