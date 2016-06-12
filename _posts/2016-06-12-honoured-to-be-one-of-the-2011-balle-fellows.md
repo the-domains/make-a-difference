@@ -8,8 +8,8 @@ description: >-
   connecting leaders, spreading solutions, and attracting investment toward
   local economies, BALLE advances the Localist Movement to create real
   prosperity for all.
-datePublished: '2016-06-12T03:01:57.498Z'
-dateModified: '2016-06-12T03:00:20.978Z'
+datePublished: '2016-06-12T03:02:14.697Z'
+dateModified: '2016-06-12T03:02:02.125Z'
 title: 'Honoured to be one of the 2011 Balle Fellows '
 author:
   - name: ''
