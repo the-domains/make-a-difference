@@ -9,8 +9,8 @@ description: >-
   organic, or read labels to ensure we don’t get too much sodium. But we usually
   don’t understand that how we eat and where we dine or buy our groceries is a
   huge opportunity to have a very positive impact on us and on our community. 
-datePublished: '2016-06-11T20:25:50.379Z'
-dateModified: '2016-06-11T20:25:43.963Z'
+datePublished: '2016-06-12T02:57:57.924Z'
+dateModified: '2016-06-11T20:25:54.542Z'
 title: 'Why Eat Local '
 author:
   - name: Jessie Radies
