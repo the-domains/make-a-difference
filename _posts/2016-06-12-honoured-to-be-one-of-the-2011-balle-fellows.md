@@ -1,21 +1,27 @@
 ---
-title: 'Honoured to be one of the 2011 Balle Fellows '
-datePublished: '2016-06-12T00:07:35.771Z'
-dateModified: '2016-06-11T22:55:22.084Z'
-author: []
-isBasedOnUrl: 'https://bealocalist.org/'
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   connecting leaders, spreading solutions, and attracting investment toward
   local economies, BALLE advances the Localist Movement to create real
   prosperity for all.
-starred: false
+datePublished: '2016-06-12T03:01:57.498Z'
+dateModified: '2016-06-12T03:00:20.978Z'
+title: 'Honoured to be one of the 2011 Balle Fellows '
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-12-honoured-to-be-one-of-the-2011-balle-fellows.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: honoured-to-be-one-of-the-2011-balle-fellows/index.html
+_type: Article
 
 ---
-# Honoured to be one of the 2011 Balle Fellows 
+<article style=""><h1>BALLE - Business Alliance for Local Living Economies</h1><p>connecting leaders, spreading solutions, and attracting investment toward local economies, BALLE advances the Localist Movement to create real prosperity for all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6b27a7e317f8e464f76b2251216fc7410d19f70.jpg" /></article>
 
-<article style=""><h1>BALLE - Business Alliance for Local Living Economies</h1><p>connecting leaders, spreading solutions, and attracting investment toward local economies, BALLE advances the Localist Movement to create real prosperity for all.</p><img src="https://bealocalist.org/sites/default/files/slider_main-cohort.jpg?1462293200" /></article>
+# Honoured to be one of the 2011 Balle Fellows
