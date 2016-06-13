@@ -8,9 +8,9 @@ description: >-
   connecting leaders, spreading solutions, and attracting investment toward
   local economies, BALLE advances the Localist Movement to create real
   prosperity for all.
-datePublished: '2016-06-12T03:02:14.697Z'
-dateModified: '2016-06-12T03:02:02.125Z'
-title: 'Honoured to be one of the 2011 Balle Fellows '
+datePublished: '2016-06-13T18:42:09.193Z'
+dateModified: '2016-06-13T02:30:03.280Z'
+title: BALLE Fellows
 author:
   - name: ''
     url: ''
@@ -24,4 +24,6 @@ _type: Article
 ---
 <article style=""><h1>BALLE - Business Alliance for Local Living Economies</h1><p>connecting leaders, spreading solutions, and attracting investment toward local economies, BALLE advances the Localist Movement to create real prosperity for all.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6b27a7e317f8e464f76b2251216fc7410d19f70.jpg" /></article>
 
-# Honoured to be one of the 2011 Balle Fellows
+# BALLE Fellows
+
+With the 2016 BALLE Fellows being announced, it is a great time to reflect on my experience as a fellow. It was an amazing (and really busy) couple of years. It was so important to be connected to leaders across America that are doing innovative and emergent work. Moving communities to prosperity is what unifies us all, and we learn from each other - so our communities can learn from each other and not waste valuable time and resources figuring out what works. I still hear from my cohort weekly, its been a few years now, so many of us have had significant life changes - marriage, divorce, births of children and loss of parents. The relationships I gained from being a BALLE Fellow have help carry my through my own life changes. It was a transformative experience and I hope the future fellow have even a richer experience than I did
