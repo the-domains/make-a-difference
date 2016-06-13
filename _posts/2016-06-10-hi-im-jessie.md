@@ -8,8 +8,8 @@ keywords: []
 description: >-
   For the past 15 years, I've been working on increasing community prosperity
   and vibrancy in my place - Edmonton, Alberta Canada 
-datePublished: '2016-06-12T03:14:08.959Z'
-dateModified: '2016-06-12T03:13:58.923Z'
+datePublished: '2016-06-13T18:42:42.167Z'
+dateModified: '2016-06-13T18:42:41.667Z'
 title: ''
 author:
   - name: ''
