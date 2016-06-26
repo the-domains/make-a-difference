@@ -4,7 +4,7 @@
         <description><![CDATA[Jessie Radies]]></description>
         <link>http://jessieradies.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 13:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 13:50:43 GMT</lastBuildDate>
         <atom:link href="http://jessieradies.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>http://photos.edmonton.ca/</link>
             <guid isPermaLink="false">38316d00-9dad-4203-be58-1044f302d28e</guid>
             <pubDate>Mon, 13 Jun 2016 18:42:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[These Businesses Are Why America's Romance With Entrepreneurs Endures]]></title>
-            <description><![CDATA[<article><h1>These Businesses Are Why America's Romance With Entrepreneurs Endures</h1><p>People say it all the time. I love Amazon! I love Chipotle! I love Trader Joe's! But do they? Do they really? Savings, variety, and convenience are desirable. But they are not cockle-warmers. Although we appreciate the advantages bestowed by scale, human beings reserve affection for the specific.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0715c788187f2f9d6c3747941b9c2e8f/noop.jpg?input=http%3A%2F%2Fwww.incimages.com%2Fuploaded_files%2Fimage%2F970x450%2Fgetty_496164965_2000121620009280231_89714-1_89714.jpg"></article>]]></description>
-            <link>http://www.inc.com/leigh-buchanan/why-we-love-main-street-businesses.html#localmatters</link>
-            <guid isPermaLink="false">44e16307-2239-4dca-b082-40f50c208795</guid>
-            <pubDate>Sun, 26 Jun 2016 13:51:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://jessieradies.com/selling-local-food-to-restaurants/index.html</link>
             <guid isPermaLink="false">43354658-2312-49eb-a719-bdadaf8cb5ae</guid>
             <pubDate>Sat, 11 Jun 2016 12:12:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TEDxEdmonton - Jessie Radies - How Local Transforms Communities]]></title>
+            <description><![CDATA[<article><h1>TEDxEdmonton - Jessie Radies - How Local Transforms Communities</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df22c9fa19015b44628ce9785b7b0f42e7f5dba4.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=oV7ImWO55K4</link>
+            <guid isPermaLink="false">d1c1e646-cadd-4a5c-8f67-99f6b46fa37e</guid>
+            <pubDate>Thu, 09 Jun 2016 03:46:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
